@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ReadCodeBar</string>
+
+    <string name="cedula"><b>Cédula: </b>%1$s</string>
+    <string name="nombres"><b>Nombres: </b>%1$s</string>
+    <string name="apellidos"><b>Apellidos: </b>%1$s</string>
+    <string name="fecha_nacimiento"><b>Fecha de nacimiento: </b>%1$s</string>
+    <string name="genero"><b>Género: </b>%1$s</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="formato_fecha">%1$s-%2$s-%3$s</string>
+    <string name="no_cedula">El código leido no pertence a una cédula</string>
+</resources>
